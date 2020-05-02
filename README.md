@@ -1,3 +1,8 @@
+
+React weather application without Redux that utilizes a weather API to fetch data about the weather in cities all over the world. 
+Live Demo: https://benkldev.github.io/react-weather-app/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
