@@ -5,10 +5,7 @@ React weather application without Redux that utilizes a weather API to fetch dat
 Live Demo: https://benkldev.github.io/react-weather-app/
 
 
-
-
-
-
+<br>
 
 
 
